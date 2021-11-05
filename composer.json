@@ -1,5 +1,5 @@
 {
-    "name": "leocavalcante/swoole-postgresql-doctrine-driver",
+    "name": "scrawler/swoole-postgresql-doctrine",
     "description": "A Doctrine DBAL Driver implementation on top of Swoole Coroutine PostgreSQL extension",
     "type": "library",
     "license": "MIT",
