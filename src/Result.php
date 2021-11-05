@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Doctrine\DBAL\Driver\Swoole\Coroutine\PostgreSQL;
+namespace Scrawler\Swoole\PostgreSQL;
 
 use Doctrine\DBAL\Driver\Exception;
 use Doctrine\DBAL\Driver\Result as ResultInterface;
