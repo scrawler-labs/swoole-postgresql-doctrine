@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Doctrine\DBAL\Driver\Swoole\Coroutine\PostgreSQL;
+namespace Scrawler\Swoole\PostgreSQL;
 
 final class ConnectionException extends \Exception
 {
