@@ -5,8 +5,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "leocavalcante",
-            "email": "lc@leocavalcante.com"
+            "name": "ipranjal",
+            "email": "itspranjalpandey@gmail.com"
         }
     ],
     "minimum-stability": "stable",
@@ -15,7 +15,7 @@
     },
     "require": {
         "php": "^7.4|^8.0",
-        "ext-swoole": "^4.6",
+        "ext-openswoole": "^4.7",
         "doctrine/dbal": "^3.0"
     },
     "autoload": {
@@ -25,6 +25,6 @@
     },
     "require-dev": {
         "pestphp/pest": "^1.0",
-        "swoole/ide-helper": "^4.6"
+        "swoole/ide-helper": "^4.7"
     }
 }
