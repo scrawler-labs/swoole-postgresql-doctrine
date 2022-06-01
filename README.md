@@ -67,6 +67,8 @@ user    0m0.036s
 sys     0m0.027s
 ```
 
+### Credits
 
 This Project has been possible because of  https://github.com/leocavalcante/swoole-postgresql-doctrine-driver
+
 All improvements have been added to the orignal repo too , chech this [PR https://github.com/leocavalcante/swoole-postgresql-doctrine-driver/pull/2](https://github.com/leocavalcante/swoole-postgresql-doctrine-driver/pull/2)
