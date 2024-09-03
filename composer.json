@@ -25,6 +25,6 @@
     },
     "require-dev": {
         "pestphp/pest": "1.21.1",
-        "swoole/ide-helper": "4.6.6"
+        "swoole/ide-helper": "5.1.4"
     }
 }
